@@ -1,0 +1,4 @@
+cabron;maquina
+feo;guapo
+gilipollas;maravilloso
+retrasado;listo

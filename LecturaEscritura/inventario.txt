@@ -1,0 +1,3 @@
+amuleto;20;3
+espada;60;1
+escudo;70;1
